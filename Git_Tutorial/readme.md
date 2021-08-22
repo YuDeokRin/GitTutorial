@@ -5,7 +5,7 @@
 ### 1. git 설치 
 <img src="https://user-images.githubusercontent.com/56623911/130358900-4169b434-d4d3-4f3d-b253-5c91a232a848.png" width="50%" height="40%" >
 
-다운로드 링크 : [Git](https://git-scm.com/, "Git link")
+다운로드 링크 : [Git](https://git-scm.com/)
 
 ### 2. 약관과 동의 
 <img src ="https://user-images.githubusercontent.com/56623911/130358213-085f4164-0b93-4dc7-a5a8-35c79e558e9a.png" width="50%" height="40%">
